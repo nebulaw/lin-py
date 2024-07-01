@@ -10,7 +10,7 @@ from functools import partialmethod
 
 """
 The only problem in this code is that it pretty much is
-designed to work only in runtime
+designed to work only in runtime. Might redesign later
 """
 
 
